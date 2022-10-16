@@ -57,10 +57,10 @@ function updatePrice() {
 }
 function getPrices() {
     return {
-        prodTypes: [500, 300, 200],
+        prodTypes: [100, 500, 200],
         prodOptions: {
-            option1: 1.2,
-            option2: 1,
+            option1: 1,
+            option2: 2,
         },
         prodProperties: {
             prodM: 15,
